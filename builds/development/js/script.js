@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+=======
+>>>>>>> d8844fd1ed1d6dd65939d4a29b238c0e52d24247
 var rclick = function() {
   var myNodes = document.querySelectorAll(".rclick");
  
@@ -90,6 +93,7 @@ $(function() {
     $('#speakers').html(html);    
   }); //getJSON
   
+<<<<<<< HEAD
 }); //function
 },{"jquery":2,"mustache":3}],2:[function(require,module,exports){
 /*eslint-disable no-unused-vars*/
@@ -10799,3 +10803,6 @@ return jQuery;
 }));
 
 },{}]},{},[1])
+=======
+}); //function
+>>>>>>> d8844fd1ed1d6dd65939d4a29b238c0e52d24247

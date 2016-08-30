@@ -12,8 +12,14 @@
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "gulp-coffee": "^2.3.2",
     "gulp-compass": "^2.1.0",
+=======
+    "gulp-coffee": "^1.4.3",
+    "gulp-compass": "^2.1.0",
+    "gulp-coffee": "^2.3.2",
+>>>>>>> 35e9e37b91795b52d9d5c04a807e627b936fcbee
 =======
     "gulp-coffee": "^1.4.3",
     "gulp-compass": "^2.1.0",
